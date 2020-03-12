@@ -1,1 +1,2 @@
-Raw data export from web scraping, in csv format
+Raw data export from web scraping, in csv format. Seperate csv files are created for each counter. 
+Note: These are the sample fo the csv file. These data will be stored at different data warehouse tool in future
